@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c8cbed5af85bd02c6ea63902",
+  "owner": "uyd5qu",
+  "repo": "page-375ebe94da5707e04ccb4379",
+  "title": "金坷垃",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "375ebe94da5707e04ccb4379",
+      "a": "金坷垃",
+      "b": "稳定全球clash加速器",
+      "entity": "金坷垃",
+      "brand": "金坷垃",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "89ac60928805971bcf4a6e559e2c3e8913e475a483e273dd93af334df7ddd325",
+      "content": {
+        "primary_entity": "金坷垃",
+        "keyword1": "金坷垃",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "挑好套餐，导入订阅，就能开始使用。",
+          "AI_CLOSING_TITLE": "选对版本，轻松连接",
+          "AI_DESCRIPTION": "，金坷垃聚焦跨境网络加速场景，提供基础版、旗舰版和团队版三档订阅，覆盖 100GB 至 1000GB 月流量、3 至 20 台设备同时在线以及普通线路、IPLC 专线和 VIP 高带宽节点。选择时先看设备数量和月流量需求，再按客户端文档完成订阅导入，即可用于日常浏览、流媒体和游戏加速。",
+          "AI_FEATURES_INTRO": "从套餐、设备和周期三个角度快速判断。",
+          "AI_FEATURES_TITLE": "选购要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览；旗舰版 300GB、5 台设备，兼顾流媒体与游戏。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，并提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选",
+          "AI_FEATURE_TITLE_2": "按设备选",
+          "AI_FEATURE_TITLE_3": "按周期选",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "金坷垃提供稳定全球网络加速订阅，覆盖基础版、旗舰版和团队版，满足不同设备数量与月流量需求。按客户端文档导入订阅后，可用于日常浏览、流媒体播放和游戏加速。",
+          "AI_HERO_SUBTITLE": "多版本订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省，最低 ¥150/年",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体和游戏，团队版面向多设备高流量。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和是否需要流媒体或游戏加速，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在订阅支持的客户端范围内，并查看所选版本的同时在线设备上限。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅地址，选择节点后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "金坷垃多版本加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按人数和流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "客户端地址由程序在页面中提供，购买后系统会分配订阅链接，把链接粘贴到 Clash、Shadowrocket 等客户端即可完成导入。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于节省两个月费用。长期使用建议选择年付。",
+          "AI_FAQ_ANSWER_4": "基础版适合个人轻量使用；旗舰版增加 IPLC 专线，适合游戏和流媒体需求；团队版支持 20 台设备和路由定制，适合小团队或企业。",
+          "AI_FAQ_ANSWER_5": "订阅链接一般绑定账号，同一时间在线的设备数不能超过套餐上限。如需更换设备，先在原设备退出或删除配置，再在新设备导入。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "怎么获取和导入订阅链接？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "适合选择哪一档套餐？",
+          "AI_FAQ_QUESTION_5": "一台设备可以使用多个客户端吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "crdjc.cn",
+    "host": "crdjc.cn"
+  },
+  "file_hashes": {
+    "index.html": "24b9ff0582b9bb200e5818102836245a2b44112a0695ac6934ca0db7ba5cd3c3",
+    "sitemap.xml": "06a9f21b3aa5ab7190eca3ca6e0e6c7e1f5963a970ae200f7f5e3473bd0966ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6d35e13b3afefe605892e0d8140d32c41e178de57c8ac055833a2449a9e625d9",
+    "robots.txt": "855fe62db9aba6b84585fedb4358483dc04e8818b2b17289e93da9f6362efc98",
+    "8eb207c0b4a8b76b739fb9e8b9b53c92.txt": "f3d27bae8d5474607bc95eadae1838a2f51f64e8f9e65b2a12a01214ddc37852"
+  },
+  "revision": "b06daad2784f2679129999cb6e5afb3e2c1d1e1da70f95e739489d3ce3dcb613"
+}
